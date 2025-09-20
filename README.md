@@ -1,2 +1,2 @@
-# sparky
+# neural-networks
 tbc
