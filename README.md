@@ -1,4 +1,4 @@
-# neural-networks
+# ShallowNeuralNetwork
 
 Using simple Neural Network to solve XOR problem
 
